@@ -1,1 +1,1 @@
-print('My python job which is run within Jenkinsfile.')
+print('My python job which is run within Jenkinsfile.ftm')
