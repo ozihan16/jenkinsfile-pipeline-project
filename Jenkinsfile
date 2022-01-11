@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('run') {
             steps {
-                echo 'Devops engineer ozihan'
+                echo 'Devops engineer ozihan--for pollSCM'
                 sh 'python --version'
                 sh 'python pipeline.py'
             }
